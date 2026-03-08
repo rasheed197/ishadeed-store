@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    margin: 0;
+}
+
+.navbar .nav-link{
+    color: white;
+}
+
+#profile p {
+    font-size: 14px;
+}
+
+#profile img {
+    width: 40px;
+    height: 40px;
+}
+
+/* BG */
+.custon-bg-cobalt {
+   background-color: #0047AB; 
+}
+
+/* TEXT */
+
+.custom-text-cobalt {
+   color: #0047AB; 
+}
+
+/* FONT */
+.custom-font-14 {
+    font-size: 14px;
+}
+
+.custom-font-13 {
+    font-size: 13px;
+}
+
+/* HEIGHT */
+
+.custom-height-500 {
+    height: 500px;
+}
+
+.custom-height-50 {
+    height: 50px;
+}
+
+/* WIDTH */
+
+.custom-width-50 {
+    width: 50px;
+}
